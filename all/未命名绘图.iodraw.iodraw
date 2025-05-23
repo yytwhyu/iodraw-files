@@ -68,16 +68,31 @@
           <mxGeometry x="93.75" y="506" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-149" value="开始" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="96" y="601" width="92" height="51" as="geometry" />
+          <mxGeometry x="89.25" y="597" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-150" target="E_Q-DUMMaUV12RPodQqL-151">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-150" value="&lt;div&gt;detected.csv文件&lt;/div&gt;&lt;div&gt;中获取预处理后的&lt;/div&gt;&lt;div&gt;数据&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="69.5" y="681" width="131.5" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-151" target="E_Q-DUMMaUV12RPodQqL-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-151" value="generate_100 _features的Python程序处理、分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="72.44" y="782" width="139.12" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="E_Q-DUMMaUV12RPodQqL-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="82" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-152" target="E_Q-DUMMaUV12RPodQqL-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-152" value="处理分析后得到的features存入数据库中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="79.75" y="867" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-153" value="结束" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="93.75" y="953" width="92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.59;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-149" target="E_Q-DUMMaUV12RPodQqL-150">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
