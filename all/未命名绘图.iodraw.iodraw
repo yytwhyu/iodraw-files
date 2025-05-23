@@ -73,6 +73,12 @@
         <mxCell id="E_Q-DUMMaUV12RPodQqL-150" value="&lt;div&gt;detected.csv文件&lt;/div&gt;&lt;div&gt;中获取预处理后的&lt;/div&gt;&lt;div&gt;数据&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="69.5" y="681" width="131.5" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-151" value="generate_100 _features的Python程序处理、分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="72.44" y="782" width="139.12" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="82" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
