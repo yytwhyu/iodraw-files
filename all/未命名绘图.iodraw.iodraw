@@ -26,7 +26,7 @@
           <mxGeometry x="447" y="698" width="184" height="184" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-8" value="标注 app_name (来源: ip)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="1010" width="243" height="48" as="geometry" />
+          <mxGeometry x="268" y="922" width="243" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-9" value="标注为未识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="583" y="1010" width="156" height="48" as="geometry" />
@@ -68,13 +68,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="536" y="708" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VlQEUuas0RWigFn46Jeh-18" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VlQEUuas0RWigFn46Jeh-7" target="VlQEUuas0RWigFn46Jeh-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="411" y="965" />
             </Array>
           </mxGeometry>
         </mxCell>
