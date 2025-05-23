@@ -7,6 +7,9 @@
         <mxCell id="E_Q-DUMMaUV12RPodQqL-129" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="97" y="10" width="92" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-131" target="E_Q-DUMMaUV12RPodQqL-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-131" value="使用zeek处理pcap文件,获取日志文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="61" y="250" width="164" height="51" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="384" y="347" width="208" height="208" as="geometry" />
         </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-135" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="442" y="606" width="92" height="51" as="geometry" />
+          <mxGeometry x="453" y="630" width="92" height="51" as="geometry" />
         </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-136" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-129">
           <mxGeometry relative="1" as="geometry">
@@ -43,11 +46,26 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-141" target="E_Q-DUMMaUV12RPodQqL-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E_Q-DUMMaUV12RPodQqL-141" value="网络接口抓&lt;br&gt;包生成的&lt;br&gt;pcap文件上&lt;br&gt;传至接口" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="67" y="110" width="147" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="E_Q-DUMMaUV12RPodQqL-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="81" y="347" width="120" height="60" as="geometry" />
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-142" target="E_Q-DUMMaUV12RPodQqL-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-142" value="对多个.log日志文件&lt;br&gt;进行合并操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="69" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="E_Q-DUMMaUV12RPodQqL-143" target="E_Q-DUMMaUV12RPodQqL-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-143" value="日志文件保&lt;br&gt;存至.log文件" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="69" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Q-DUMMaUV12RPodQqL-144" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="83" y="550" width="92" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
