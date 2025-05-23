@@ -17,10 +17,13 @@
           <mxGeometry x="317" y="350" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-5" value="domain 是否匹配映射表?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="283" y="448" width="224" height="224" as="geometry" />
+          <mxGeometry x="281.5" y="430" width="224" height="224" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-6" value="标注 app_name (来源: domain)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="29" y="803" width="219" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="VlQEUuas0RWigFn46Jeh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VlQEUuas0RWigFn46Jeh-7" target="VlQEUuas0RWigFn46Jeh-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-7" value="ip 是否匹配映射表?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="447" y="698" width="184" height="184" as="geometry" />
@@ -32,7 +35,7 @@
           <mxGeometry x="583" y="1010" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-10" value="输出 final_df" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="334" y="1117" width="153" height="48" as="geometry" />
+          <mxGeometry x="317" y="1037" width="153" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="365" y="1215" width="92" height="48" as="geometry" />
