@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-7" value="ip 是否匹配映射表?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="447" y="698" width="184" height="184" as="geometry" />
+          <mxGeometry x="530" y="646" width="184" height="184" as="geometry" />
         </mxCell>
         <mxCell id="VlQEUuas0RWigFn46Jeh-8" value="标注 app_name (来源: ip)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="922" width="243" height="48" as="geometry" />
@@ -93,6 +93,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VlQEUuas0RWigFn46Jeh-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="168" y="511" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
