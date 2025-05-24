@@ -25,8 +25,11 @@
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-42" value="属性关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="200" width="124" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-43" target="_C7ZTlkJidKmsH-SwvUo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-43" value="特征处理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="466" y="49" width="141" height="48" as="geometry" />
+          <mxGeometry x="523" y="53" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-44" value="特征降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="451" y="200" width="102" height="48" as="geometry" />
@@ -38,7 +41,7 @@
           <mxGeometry x="827" y="36" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-47" value="聚类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="699" y="200" width="124" height="48" as="geometry" />
+          <mxGeometry x="699" y="200" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-48" value="规则匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="896" y="200" width="124" height="48" as="geometry" />
