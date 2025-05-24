@@ -11,7 +11,7 @@
           <mxGeometry x="162" y="119" width="224" height="66" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-3" value="使用zeek(原bro)处理pcap文件,获取日志" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="436" y="20" width="218" height="217" as="geometry" />
+          <mxGeometry x="443" y="44" width="218" height="217" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-4" value="日志文件保存至.log文件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="751" y="128" width="201" height="48" as="geometry" />
@@ -46,6 +46,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-3" target="_C7ZTlkJidKmsH-SwvUo-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
