@@ -4,53 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="128" width="92" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-2" value="网络接口抓包生成的pcap文件上传至接口" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="162" y="119" width="224" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-4" value="日志文件保存至.log文件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="756" y="128" width="201" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-6" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="130" width="92" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-1" target="_C7ZTlkJidKmsH-SwvUo-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-2" target="_C7ZTlkJidKmsH-SwvUo-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="443" y="152.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-13" target="_C7ZTlkJidKmsH-SwvUo-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="661" y="152.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-4" target="_C7ZTlkJidKmsH-SwvUo-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1002" y="152.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-11" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-15" target="_C7ZTlkJidKmsH-SwvUo-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1254.9999999999995" y="152.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-13" value="使用zeek(原bro)处理pcap文件,获取日志" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="106.5" width="243" height="91" as="geometry" />
-        </mxCell>
-        <mxCell id="_C7ZTlkJidKmsH-SwvUo-15" value="对多个.log日志文件进行合并操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="115" width="193" height="74" as="geometry" />
-        </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-39" value="数据整合层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="267" width="141" height="48" as="geometry" />
         </mxCell>
