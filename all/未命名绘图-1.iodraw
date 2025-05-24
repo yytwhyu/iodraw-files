@@ -40,17 +40,23 @@
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-45" value="权重分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="548.5" y="202" width="88" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-46" target="_C7ZTlkJidKmsH-SwvUo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-46" target="_C7ZTlkJidKmsH-SwvUo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-46" value="标签生成层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827" y="36" width="140" height="48" as="geometry" />
+          <mxGeometry x="758" y="46" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-47" value="聚类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="678" y="200" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-48" value="规则匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="809" y="200" width="124" height="48" as="geometry" />
+          <mxGeometry x="772" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-49" value="语义封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="200" width="124" height="48" as="geometry" />
+          <mxGeometry x="962" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-50" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1255" y="53" width="108" height="48" as="geometry" />
