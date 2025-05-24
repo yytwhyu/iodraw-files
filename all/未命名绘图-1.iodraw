@@ -49,6 +49,9 @@
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-13" value="使用zeek(原bro)处理pcap文件,获取日志" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="487" y="136" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-15" value="对多个.log日志文件进行合并操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1069" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
