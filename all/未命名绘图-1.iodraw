@@ -14,7 +14,7 @@
           <mxGeometry x="756" y="128" width="201" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-6" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="130" width="92" height="48" as="geometry" />
+          <mxGeometry x="1279" y="128" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-1" target="_C7ZTlkJidKmsH-SwvUo-2">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,50 @@
           <mxGeometry x="441" y="106.5" width="243" height="91" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-15" value="对多个.log日志文件进行合并操作" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="117" width="193" height="74" as="geometry" />
+          <mxGeometry x="1037" y="115" width="193" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-17" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="326" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-18" value="网络接口抓包生成的pcap文件上传至接口" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="162" y="317" width="224" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-19" value="使用zeek(原bro)处理pcap文件,获取日志" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="436" y="218" width="265" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-20" value="日志文件保存至.log文件" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="751" y="326" width="201" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-21" value="对多个.log日志文件进行合并操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="224" width="253" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-22" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="326" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-17" target="_C7ZTlkJidKmsH-SwvUo-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-18" target="_C7ZTlkJidKmsH-SwvUo-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-19" target="_C7ZTlkJidKmsH-SwvUo-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-20" target="_C7ZTlkJidKmsH-SwvUo-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_C7ZTlkJidKmsH-SwvUo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="_C7ZTlkJidKmsH-SwvUo-21" target="_C7ZTlkJidKmsH-SwvUo-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
