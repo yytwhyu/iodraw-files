@@ -23,19 +23,19 @@
           <mxGeometry x="466" y="200" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-45" value="权重分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="629" y="205" width="124" height="48" as="geometry" />
+          <mxGeometry x="609" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-46" value="标签生成层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="827" y="36" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-47" value="聚类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="775" y="200" width="124" height="48" as="geometry" />
+          <mxGeometry x="749" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-48" value="规则匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="917" y="198" width="124" height="48" as="geometry" />
+          <mxGeometry x="896" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-49" value="语义封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="205" width="124" height="48" as="geometry" />
+          <mxGeometry x="1036" y="200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-50" value="输出层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1255" y="53" width="108" height="48" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1363" y="205" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-52" value="可视化分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1192" y="205" width="140" height="48" as="geometry" />
+          <mxGeometry x="1178" y="200" width="140" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
