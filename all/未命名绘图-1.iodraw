@@ -50,10 +50,10 @@
           <mxGeometry x="758" y="46" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-47" value="聚类分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="678" y="200" width="100" height="48" as="geometry" />
+          <mxGeometry x="678" y="200" width="74" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-48" value="规则匹配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="772" y="200" width="124" height="48" as="geometry" />
+          <mxGeometry x="816" y="200" width="80" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_C7ZTlkJidKmsH-SwvUo-49" value="语义封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="962" y="200" width="124" height="48" as="geometry" />
