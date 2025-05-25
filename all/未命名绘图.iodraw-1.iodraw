@@ -28,7 +28,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.68;dx=34.19;notch=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="185" y="169" width="88" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-59" value="输入data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-59" value="输入data" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="299" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-60" value="计算填充长度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-62" value="填充数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="646" y="299" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-63" value="输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-63" value="输出" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="299" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-59" target="pTegrqsHOwk3y6oQToEL-60">
