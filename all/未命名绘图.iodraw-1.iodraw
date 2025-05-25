@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="1.DES3密钥&#xa;2.初始化向量&#xa;3.待加密明文" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="DES3密钥&#xa;初始化向量&#xa;待加密明文" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="截取密钥前24字节&#xa;初始化DES3加密器&#xa;对明文进行PKCS#7填充&#xa;执行加密" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
@@ -27,12 +27,6 @@
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-58" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.68;dx=34.19;notch=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="177" y="167" width="88" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-69" value="1.DES3密钥&#xa;    2.初始化向量&#xa;    3.待加密明文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="308" width="154" height="83" as="geometry" />
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-71" value="DES3加密后的&#xa;    二进制密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="553" y="317" width="158" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
