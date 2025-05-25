@@ -475,6 +475,9 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="维度测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="444" y="2753" width="112" height="112" as="geometry" />
         </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-18" target="CAwHFsnoU8_BIfxsPcn6-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-18" value="降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="2785" width="124" height="48" as="geometry" />
         </mxCell>
@@ -488,6 +491,9 @@
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="444" y="2874" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-35" value="输出低维矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="829" y="2785" width="124" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
