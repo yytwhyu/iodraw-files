@@ -130,6 +130,25 @@
         <mxCell id="pOnY201Y91YuatJKGIju-101" value="异步流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="72" y="302" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-102" value="仿真参数&#xa;真实数据样本&#xa;生成数量&#xa;特征列表权重&#xa;(输入)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="66" y="617" width="157" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-103" value="生成仿真数据&#xa;计算分布差异&#xa;归一化&#xa;相似度计算&#xa;(处理)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="273" y="617" width="126" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-104" value="仿真数据&#xa;相似度评分&#xa;(输出)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="635" width="141" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-102" target="pOnY201Y91YuatJKGIju-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-103" target="pOnY201Y91YuatJKGIju-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
