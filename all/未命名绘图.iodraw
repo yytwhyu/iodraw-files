@@ -128,7 +128,7 @@
           <mxGeometry x="564" y="571" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-101" value="异步流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="39" y="302" width="66" height="26" as="geometry" />
+          <mxGeometry x="72" y="302" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
