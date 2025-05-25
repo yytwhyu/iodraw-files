@@ -22,8 +22,8 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-56" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="506" y="58" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.7;dx=33.68;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="146" width="100" height="70" as="geometry" />
+        <mxCell id="pTegrqsHOwk3y6oQToEL-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.68;dx=51.05;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="159" width="88" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
