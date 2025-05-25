@@ -113,7 +113,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-100" value="输入key,iv,message" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-100" value="输入key,iv,message" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="48" y="805" width="197" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-101" value="调用encrypt生成密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
