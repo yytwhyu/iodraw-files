@@ -472,11 +472,6 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17" target="CAwHFsnoU8_BIfxsPcn6-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="2921.3342666625977" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-18" target="CAwHFsnoU8_BIfxsPcn6-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -503,6 +498,9 @@
             <mxPoint x="323" y="2809" as="sourcePoint" />
             <mxPoint x="444" y="2809.0000000000005" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17" target="CAwHFsnoU8_BIfxsPcn6-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="维度测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="2753" width="112" height="112" as="geometry" />
