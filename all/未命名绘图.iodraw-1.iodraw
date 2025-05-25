@@ -505,7 +505,7 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="维度测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="2753" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-52" value="加载聚类标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-52" value="加载聚类标签" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="3022" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-53" value="读取规则文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -560,6 +560,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-58" target="CAwHFsnoU8_BIfxsPcn6-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-67" value="加载基础标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3123" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-68" value="读取报告" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="227" y="3123" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-69" value="提取特征" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="371" y="3123" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-70" value="选择语义模板" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="515" y="3123" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-71" value="填充模板变量" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="691" y="3123" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-72" value="生成最终标签" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="867" y="3123" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-73" value="入库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1043" y="3123" width="62" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-67" target="CAwHFsnoU8_BIfxsPcn6-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-68" target="CAwHFsnoU8_BIfxsPcn6-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-69" target="CAwHFsnoU8_BIfxsPcn6-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-70" target="CAwHFsnoU8_BIfxsPcn6-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-71" target="CAwHFsnoU8_BIfxsPcn6-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-72" target="CAwHFsnoU8_BIfxsPcn6-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
