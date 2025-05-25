@@ -10,7 +10,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="轮询任务状态&#xa;检查taskstatus&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="265" y="95.5" width="145" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="包含taskId的响&#xa;应数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="最终任务状态级结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="498" y="104" width="153" height="155" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-54" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
