@@ -270,30 +270,14 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-143" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1762" width="92" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-144" target="pTegrqsHOwk3y6oQToEL-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-144" value="taskid ==&#xa;Costume_Script" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="169" y="1709" width="151" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-145" target="pTegrqsHOwk3y6oQToEL-147">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="749" y="1738" />
-              <mxPoint x="749" y="1796" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-145" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="1714" width="211" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-146" target="pTegrqsHOwk3y6oQToEL-147">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="748" y="1850" />
-              <mxPoint x="748" y="1796" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-146" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="509" y="1826" width="211" height="48" as="geometry" />
+          <mxGeometry x="498" y="1774" width="211" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-147">
           <mxGeometry relative="1" as="geometry">
