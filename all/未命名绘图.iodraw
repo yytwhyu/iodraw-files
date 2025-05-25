@@ -17,7 +17,7 @@
           <mxGeometry x="684" y="123" width="186" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-5" value="密钥,iv,&#xa;明文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="697" y="25" width="160" height="48" as="geometry" />
+          <mxGeometry x="48.5" y="248" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-6" value="DES3加密器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="74" width="190" height="48" as="geometry" />
@@ -50,20 +50,6 @@
         <mxCell id="pOnY201Y91YuatJKGIju-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-3" target="pOnY201Y91YuatJKGIju-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-5" target="pOnY201Y91YuatJKGIju-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="895" y="49" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.19;entryY=1.01;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-4" target="pOnY201Y91YuatJKGIju-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="895" y="147" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-6" target="pOnY201Y91YuatJKGIju-7">
