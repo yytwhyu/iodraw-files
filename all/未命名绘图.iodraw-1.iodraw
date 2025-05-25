@@ -7,7 +7,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="文件网络地址&#xa;文件名&#xa;自动安装标识" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="轮询任务状态&#xa;检查taskstatus&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="构造上传请求数据&#xa;调用async_do发送请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="265" y="95.5" width="145" height="182" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="最终任务状态级结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
