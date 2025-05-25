@@ -102,8 +102,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-94" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="810" width="40" height="26" as="geometry" />
+        <mxCell id="pOnY201Y91YuatJKGIju-94" value="同步流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="74" y="800" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
