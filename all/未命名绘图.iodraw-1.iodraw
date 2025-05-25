@@ -284,8 +284,11 @@
             <mxPoint x="988.0008108956476" y="1796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-361" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-147" target="pTegrqsHOwk3y6oQToEL-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-147" value="构造请求体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="1762" width="141" height="48" as="geometry" />
+          <mxGeometry x="595" y="1762" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-149">
           <mxGeometry relative="1" as="geometry">
