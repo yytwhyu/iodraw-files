@@ -10,9 +10,6 @@
         <mxCell id="pOnY201Y91YuatJKGIju-3" value="追加填充字符" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="445" y="121" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-4" value="对齐二进制&#xa;数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="121" width="186" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-6" value="DES3加密器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="225" y="249" width="133" height="47" as="geometry" />
         </mxCell>
@@ -33,9 +30,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-3" target="pOnY201Y91YuatJKGIju-4">
+        <mxCell id="pOnY201Y91YuatJKGIju-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="664" y="145.48000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-6" target="pOnY201Y91YuatJKGIju-7">
@@ -69,6 +67,9 @@
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-28" value="字符串密文" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="544" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-29" value="对齐二进制&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
