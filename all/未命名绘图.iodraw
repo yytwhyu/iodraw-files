@@ -19,8 +19,11 @@
         <mxCell id="pOnY201Y91YuatJKGIju-8" value="加密" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="544" y="249" width="93" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-9" target="pOnY201Y91YuatJKGIju-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-9" value="二进制密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="249" width="92" height="48" as="geometry" />
+          <mxGeometry x="682" y="249" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-10" value="Base64编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="390" width="141" height="48" as="geometry" />
