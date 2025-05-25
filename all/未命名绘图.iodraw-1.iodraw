@@ -282,9 +282,6 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-147" value="构造请求体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="789" y="1713" width="141" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-148" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="753" y="1811" width="211" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-149" value="发送请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1023" y="1663" width="124" height="48" as="geometry" />
         </mxCell>
@@ -369,9 +366,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-252" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-146" target="pTegrqsHOwk3y6oQToEL-148">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-252" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-146">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="753" y="1835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-253" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=-0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-147" target="pTegrqsHOwk3y6oQToEL-149">
