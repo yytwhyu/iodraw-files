@@ -291,21 +291,24 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-145" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="1714" width="211" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-146">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="782.354012625558" y="1791.3935350690572" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="754" y="1850" />
-              <mxPoint x="754" y="1798" />
-              <mxPoint x="782" y="1798" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-146" target="pTegrqsHOwk3y6oQToEL-147">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-146" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="509" y="1826" width="211" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="988.0008108956476" y="1796" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-147" value="构造请求体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="783" y="1772" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1177.634251185826" y="1796" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-149" value="发送请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="992" y="1772" width="124" height="48" as="geometry" />
