@@ -20,13 +20,13 @@
           <mxGeometry x="407" y="248.5" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-8" value="加密" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="664" y="248" width="93" height="48" as="geometry" />
+          <mxGeometry x="601" y="248.5" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-9" value="二进制密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="845" y="248" width="140" height="48" as="geometry" />
+          <mxGeometry x="730" y="249" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-10" value="Base64编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="248" width="141" height="48" as="geometry" />
+          <mxGeometry x="325" y="390" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-11" value="字符串密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1226" y="248" width="140" height="48" as="geometry" />
@@ -52,11 +52,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-8" target="pOnY201Y91YuatJKGIju-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-9" target="pOnY201Y91YuatJKGIju-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
