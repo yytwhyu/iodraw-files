@@ -7,7 +7,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="无显示输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="根据taskid生成脚本命令&#xa;调用async_do发送请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="轮询任务状态&#xa;检查taskstatus&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="265" y="95.5" width="145" height="182" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="包含taskId的响&#xa;应数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
