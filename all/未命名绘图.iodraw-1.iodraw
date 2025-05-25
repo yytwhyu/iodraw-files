@@ -7,8 +7,8 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="需填充的原始二进制数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="1.计算填充长度&#xa;2. 生成填充字节&#xa;3. 追加至末尾" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="307" y="95" width="102" height="182" as="geometry" />
+        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="计算填充长度&#xa;生成填充字节 &#xa;追加至末尾" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="95.5" width="102" height="182" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="填充后的二进制数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="556" y="113" width="204" height="48" as="geometry" />
