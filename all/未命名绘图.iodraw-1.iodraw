@@ -495,14 +495,14 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-26" target="CAwHFsnoU8_BIfxsPcn6-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-26" value="参数标准化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-26" value="数据标准化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2779" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-32" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="578" y="2887" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="2780" width="40" height="26" as="geometry" />
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="2780" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
