@@ -7,8 +7,8 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="API地址&#xa;请求数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="加密数据生msg" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="265" y="95.5" width="136" height="182" as="geometry" />
+        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="加密数据生msg&#xa;拼接url(含签名参数)" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="265" y="95.5" width="145" height="182" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="Base64编码后的&#xa;字符串" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="610" y="110" width="89" height="153" as="geometry" />
