@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pOnY201Y91YuatJKGIju-63" value="异步流程" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="87" y="566" width="1145" height="322" as="geometry" />
-        </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-65" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="64" y="861" width="92" height="48" as="geometry" />
         </mxCell>
@@ -23,22 +20,22 @@
           <mxGeometry x="683" y="861" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-70" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="45" y="318" width="92" height="48" as="geometry" />
+          <mxGeometry x="46" y="1022" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-71" value="加密生成msg" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="187" y="318" width="123" height="48" as="geometry" />
+          <mxGeometry x="210" y="1025" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-72" value="拼接" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="390" y="318" width="63" height="48" as="geometry" />
+          <mxGeometry x="391" y="1022" width="63" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-73" value="创建异步会话" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="547" y="318" width="126" height="48" as="geometry" />
+          <mxGeometry x="548" y="1022" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-74" value="Post请求" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="790" y="318" width="92" height="48" as="geometry" />
+          <mxGeometry x="791" y="1022" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-75" value="返回Json响应" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1015" y="318" width="125" height="48" as="geometry" />
+          <mxGeometry x="1016" y="1022" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-76" value="轮询入口" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="469" width="124" height="48" as="geometry" />
