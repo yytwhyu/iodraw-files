@@ -11,13 +11,13 @@
           <mxGeometry x="214" y="213" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-67" value="拼接" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="417" y="213" width="63" height="48" as="geometry" />
+          <mxGeometry x="390.5" y="213" width="63" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-68" value="Post请求" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="540" y="213" width="92" height="48" as="geometry" />
+          <mxGeometry x="504" y="213" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-69" value="返回响应对象" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="691" y="213" width="126" height="48" as="geometry" />
+          <mxGeometry x="650" y="213" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-70" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="347" width="92" height="48" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="412" y="347" width="63" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-73" value="创建异步会话" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="569" y="347" width="126" height="48" as="geometry" />
+          <mxGeometry x="510" y="347" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-74" value="Post请求" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="812" y="347" width="92" height="48" as="geometry" />
