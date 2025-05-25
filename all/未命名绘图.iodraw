@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pOnY201Y91YuatJKGIju-65" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="861" width="92" height="48" as="geometry" />
+          <mxGeometry x="72" y="213" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-66" value="加密生成msg" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="206" y="861" width="123" height="48" as="geometry" />
+          <mxGeometry x="214" y="213" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-67" value="拼接" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="409" y="861" width="63" height="48" as="geometry" />
+          <mxGeometry x="417" y="213" width="63" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-68" value="Post请求" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="532" y="861" width="92" height="48" as="geometry" />
+          <mxGeometry x="540" y="213" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-69" value="返回响应对象" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="683" y="861" width="126" height="48" as="geometry" />
+          <mxGeometry x="691" y="213" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-70" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="601" width="92" height="48" as="geometry" />
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-94" value="同步流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="74" y="800" width="66" height="26" as="geometry" />
+          <mxGeometry x="82" y="152" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
