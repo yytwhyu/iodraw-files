@@ -469,10 +469,10 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-15" value="参数标准化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="334" y="2628" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-16" value="训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-16" value="调优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="612" y="2657" width="93" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="预测测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="系数测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="820" y="2641" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-18" value="输出结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
