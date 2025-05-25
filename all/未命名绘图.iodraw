@@ -105,13 +105,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-90" value="True" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-77" target="pOnY201Y91YuatJKGIju-69">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="549" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-91" value="" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.27;entryX=-Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-77" target="pOnY201Y91YuatJKGIju-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -123,13 +116,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="969" y="437" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=Infinity;exitY=Infinity;entryX=1;entryY=0.5;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-79" target="pOnY201Y91YuatJKGIju-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="969" y="493" />
             </Array>
           </mxGeometry>
         </mxCell>
