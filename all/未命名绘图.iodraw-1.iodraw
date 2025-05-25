@@ -463,11 +463,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-14" value="加载特征矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-14" value="加载特征矩阵" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="2785" width="141" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-15" value="参数标准化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="334" y="2628" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-16" value="调优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="612" y="2657" width="93" height="48" as="geometry" />
