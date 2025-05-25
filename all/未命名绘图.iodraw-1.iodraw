@@ -7,9 +7,6 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-1" value="程序入口" style="whiteSpace=wrap;strokeWidth=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="69" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-2" value="一个或若干个" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="195" y="21" width="144" height="144" as="geometry" />
-        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-3" value="对象实例化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="69" width="140" height="48" as="geometry" />
         </mxCell>
@@ -28,14 +25,16 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-8" value="重启设备" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1209" y="69" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-1" target="pTegrqsHOwk3y6oQToEL-2">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="195" y="93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-2" target="pTegrqsHOwk3y6oQToEL-3">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;strokeWidth=1;" edge="1" parent="1" target="pTegrqsHOwk3y6oQToEL-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="339" y="93" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0;entryX=0;entryY=0.5;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-3" target="pTegrqsHOwk3y6oQToEL-4">
@@ -75,6 +74,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;一个或若干个&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411.4642639160156" y="28.983421325683594" width="100" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
