@@ -475,8 +475,8 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="维度测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="444" y="2753" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-18" value="输出标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="647" y="2782" width="124" height="48" as="geometry" />
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-18" value="降维" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="2785" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-26">
           <mxGeometry relative="1" as="geometry">
@@ -487,7 +487,7 @@
           <mxGeometry x="246" y="2779" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="2780" width="30" height="26" as="geometry" />
+          <mxGeometry x="444" y="2874" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
