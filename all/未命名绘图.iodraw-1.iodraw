@@ -21,8 +21,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="9" y="24" width="100" height="60" as="geometry" />
+        <mxCell id="pTegrqsHOwk3y6oQToEL-48" value="数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="22" y="14" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
