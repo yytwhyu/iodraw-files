@@ -473,7 +473,7 @@
           <mxGeometry x="612" y="2657" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="预测测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="133" y="2984" width="112" height="112" as="geometry" />
+          <mxGeometry x="820" y="2641" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-18" value="输出结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127" y="3168" width="124" height="48" as="geometry" />
@@ -498,13 +498,6 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-22" value="True" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17" target="CAwHFsnoU8_BIfxsPcn6-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-23" value="False" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0.58;entryY=1.01;rounded=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17" target="CAwHFsnoU8_BIfxsPcn6-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="2948" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
