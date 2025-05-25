@@ -7,7 +7,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="带有应用来源、时间特征的基础表数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="构造上传请求数据&#xa;调用async_do发送请求" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="基础表数据聚合成分钟数据&#xa;形成连续应用数据&#xa;活跃值筛选" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="265" y="95.5" width="145" height="182" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="包含taskid的响应数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
