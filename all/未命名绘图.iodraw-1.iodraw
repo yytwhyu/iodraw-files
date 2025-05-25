@@ -7,7 +7,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-49" value="1.DES3密钥&#xa;2.初始化向量&#xa;3.待加密明文" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="61" y="100" width="114" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="1.截取密钥前24字节&#xa;2.初始化DES3加密器&#xa;3.对明文进行PKCS#7填充&#xa;4.执行加密" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="1.截取密钥前24字节&#xa;2.初始化DES3加密器&#xa;对明文进行PKCS#7填充&#xa;4.执行加密" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="265" y="95.5" width="102" height="182" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="DES3加密后的&#xa;二进制密文" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
@@ -31,21 +31,8 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-69" value="1.DES3密钥&#xa;    2.初始化向量&#xa;    3.待加密明文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="308" width="154" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-70" value="1.截取密钥前24字节&#xa;    2.初始化DES3加密器&#xa;    3.对明文进行PKCS#7填充&#xa;    4.执行加密" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="264" y="299" width="238" height="101" as="geometry" />
-        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-71" value="DES3加密后的&#xa;    二进制密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="553" y="317" width="158" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-69" target="pTegrqsHOwk3y6oQToEL-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-70" target="pTegrqsHOwk3y6oQToEL-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
