@@ -13,7 +13,7 @@
         <mxCell id="pOnY201Y91YuatJKGIju-4" value="对齐二进制&#xa;数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="684" y="123" width="186" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-5" value="密钥,iv,&#xa;明文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="pOnY201Y91YuatJKGIju-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="35" y="220" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-6" value="DES3加密器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -33,12 +33,6 @@
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-11" value="字符串密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1226" y="248" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" target="pOnY201Y91YuatJKGIju-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="222" y="147.48000000000002" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-2" target="pOnY201Y91YuatJKGIju-3">
           <mxGeometry relative="1" as="geometry">
@@ -75,11 +69,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOnY201Y91YuatJKGIju-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-22" target="pOnY201Y91YuatJKGIju-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pOnY201Y91YuatJKGIju-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pOnY201Y91YuatJKGIju-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.3698425292969" y="147" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-22" value="原始二进制&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="117" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-25" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="324" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
