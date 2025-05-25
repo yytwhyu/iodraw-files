@@ -154,6 +154,49 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-114" value="输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1154" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-115" value="加密data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1154" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-116" value="拼接URL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="337" y="1154" width="121" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-117" value="构造POST请求体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="507" y="1154" width="177" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-118" value="发送同步请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="734" y="1154" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-119" value="输出Response对象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="953" y="1154" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-114" target="pTegrqsHOwk3y6oQToEL-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-115" target="pTegrqsHOwk3y6oQToEL-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-122" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-116" target="pTegrqsHOwk3y6oQToEL-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-117" target="pTegrqsHOwk3y6oQToEL-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-124" value="b" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-118" target="pTegrqsHOwk3y6oQToEL-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
