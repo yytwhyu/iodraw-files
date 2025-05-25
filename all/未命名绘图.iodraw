@@ -102,6 +102,9 @@
         <mxCell id="pOnY201Y91YuatJKGIju-94" value="同步流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="82" y="152" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="pOnY201Y91YuatJKGIju-95" value="返回响应对象" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="660" y="223" width="126" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
