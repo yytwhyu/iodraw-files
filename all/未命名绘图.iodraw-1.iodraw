@@ -274,8 +274,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="326" y="1797" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="418" y="1786" />
-              <mxPoint x="418" y="1738" />
+              <mxPoint x="417" y="1786" />
+              <mxPoint x="417" y="1738" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,6 +284,9 @@
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-144" value="taskid ==&#xa;Costume_Script" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="169" y="1709" width="151" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-355" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-145" target="pTegrqsHOwk3y6oQToEL-147">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-145" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="1714" width="211" height="48" as="geometry" />
