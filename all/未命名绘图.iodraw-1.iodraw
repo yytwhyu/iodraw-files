@@ -282,11 +282,17 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-145" value="使用content生成脚本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="1766.5" width="149" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-147" target="pTegrqsHOwk3y6oQToEL-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-147" value="构造请求体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="595" y="1762" width="97" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-149" target="pTegrqsHOwk3y6oQToEL-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-149" value="发送请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="803" y="1762" width="124" height="48" as="geometry" />
+          <mxGeometry x="750" y="1763" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-248" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-143" target="pTegrqsHOwk3y6oQToEL-144">
           <mxGeometry relative="1" as="geometry">
