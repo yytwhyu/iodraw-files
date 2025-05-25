@@ -475,6 +475,17 @@
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-16" value="调优" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="444" y="2785" width="93" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17" target="CAwHFsnoU8_BIfxsPcn6-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CAwHFsnoU8_BIfxsPcn6-17" target="CAwHFsnoU8_BIfxsPcn6-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="651" y="2885" />
+              <mxPoint x="491" y="2885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-17" value="系数测试" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="595" y="2753" width="112" height="112" as="geometry" />
         </mxCell>
