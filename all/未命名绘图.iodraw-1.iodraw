@@ -10,7 +10,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-50" value="调用encrypt生成密文&#xa;Base64编码" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="265" y="95.5" width="102" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="DES3加密后的&#xa;二进制密文" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="pTegrqsHOwk3y6oQToEL-51" value="Base64编码后的&#xa;字符串" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="458" y="110" width="89" height="153" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-54" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
@@ -109,6 +109,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-96" target="pTegrqsHOwk3y6oQToEL-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-100" value="输入key,iv,message" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="48" y="805" width="197" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-101" value="调用encrypt生成密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295" y="805" width="211" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-102" value="Base64编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="556" y="805" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-103" value="输出Base64字符串" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="747" y="805" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-100" target="pTegrqsHOwk3y6oQToEL-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-101" target="pTegrqsHOwk3y6oQToEL-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-102" target="pTegrqsHOwk3y6oQToEL-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
