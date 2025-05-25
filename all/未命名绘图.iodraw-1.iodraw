@@ -270,6 +270,11 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-143" value="输入" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1762" width="92" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-144" target="pTegrqsHOwk3y6oQToEL-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326" y="1797" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-144" value="taskid ==&#xa;Costume_Script" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="169" y="1709" width="151" height="154" as="geometry" />
         </mxCell>
