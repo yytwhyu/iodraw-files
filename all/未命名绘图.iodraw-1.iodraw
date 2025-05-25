@@ -31,12 +31,6 @@
             <mxPoint x="195" y="93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;strokeWidth=1;" edge="1" parent="1" target="pTegrqsHOwk3y6oQToEL-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="339" y="93" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0;entryX=0;entryY=0.5;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-3" target="pTegrqsHOwk3y6oQToEL-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
