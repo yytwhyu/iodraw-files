@@ -26,18 +26,13 @@
           <mxGeometry x="566" y="246" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-6" value="应用配置" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="723" y="243" width="100" height="47" as="geometry" />
+          <mxGeometry x="722" y="246" width="102" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-7" value="查询结果" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1035" y="69" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-8" value="重启设备" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1209" y="69" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pTegrqsHOwk3y6oQToEL-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0;entryY=0.51;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-6" target="pTegrqsHOwk3y6oQToEL-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pTegrqsHOwk3y6oQToEL-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;strokeWidth=1;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-7" target="pTegrqsHOwk3y6oQToEL-8">
           <mxGeometry relative="1" as="geometry">
