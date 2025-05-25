@@ -14,10 +14,10 @@
           <mxGeometry x="225" y="249" width="133" height="47" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-7" value="PKCS#7填充" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="407" y="248.5" width="144" height="48" as="geometry" />
+          <mxGeometry x="407" y="248" width="91" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-8" value="加密" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="248.5" width="93" height="48" as="geometry" />
+          <mxGeometry x="544" y="249" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-9" value="二进制密文" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="249" width="92" height="48" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry x="544" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pOnY201Y91YuatJKGIju-29" value="对齐二进制&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="654" y="115" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
