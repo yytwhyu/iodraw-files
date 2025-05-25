@@ -408,7 +408,7 @@
         <mxCell id="pTegrqsHOwk3y6oQToEL-399" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="890" y="2137" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-1" value="接受流量数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-1" value="接受流量数据" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="2385" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-2" value="字段完整性检查" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
