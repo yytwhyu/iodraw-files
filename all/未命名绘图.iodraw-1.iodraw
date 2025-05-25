@@ -140,6 +140,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-107" value="1.API地址&#xa;    3.发送同步POST请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="960" width="207" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-108" value="B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="89" y="1076" width="69" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-109" value="requests.Respon&#xa;    se对象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="277" y="1067" width="177" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pTegrqsHOwk3y6oQToEL-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="pTegrqsHOwk3y6oQToEL-108" target="pTegrqsHOwk3y6oQToEL-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
