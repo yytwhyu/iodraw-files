@@ -564,7 +564,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CAwHFsnoU8_BIfxsPcn6-67" value="加载基础标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CAwHFsnoU8_BIfxsPcn6-67" value="加载基础标签" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="3123" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CAwHFsnoU8_BIfxsPcn6-68" value="读取报告" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
