@@ -76,6 +76,11 @@
         <mxCell id="xA2p-hWsxv-ZaibTdKcT-24" value="检测任务管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2922" y="217" width="156" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="xA2p-hWsxv-ZaibTdKcT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xA2p-hWsxv-ZaibTdKcT-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3260" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xA2p-hWsxv-ZaibTdKcT-25" value="对抗任务创建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3128" y="217" width="156" height="48" as="geometry" />
         </mxCell>
@@ -88,7 +93,7 @@
         <mxCell id="xA2p-hWsxv-ZaibTdKcT-28" value="特征归因分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3762" y="217" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="xA2p-hWsxv-ZaibTdKcT-29" value="对抗增强过程展示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xA2p-hWsxv-ZaibTdKcT-29" value="对抗增强过程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3968" y="217" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xA2p-hWsxv-ZaibTdKcT-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xA2p-hWsxv-ZaibTdKcT-1" target="xA2p-hWsxv-ZaibTdKcT-2">
