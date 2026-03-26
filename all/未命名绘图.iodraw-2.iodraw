@@ -35,7 +35,7 @@
           <mxGeometry x="20" y="217" width="50" height="173" as="geometry" />
         </mxCell>
         <mxCell id="xA2p-hWsxv-ZaibTdKcT-11" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242" y="217" width="156" height="48" as="geometry" />
+          <mxGeometry x="242" y="217" width="58" height="173" as="geometry" />
         </mxCell>
         <mxCell id="xA2p-hWsxv-ZaibTdKcT-12" value="节点接入与维护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="448" y="217" width="172" height="48" as="geometry" />
